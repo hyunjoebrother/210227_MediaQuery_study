@@ -40,16 +40,20 @@ html, body{
     .map1:hover {
         background-color: red;
         size : 0%;
+        color : White;
+        text-align: center;
     }
 
     #text {
         color : black;
         transition: color 0.5s;
+        text-align: center;
     }
 
     #text:hover {
         color : white;
         transition: color 0.5s;
+        text-align: center;
     }
 }
 
